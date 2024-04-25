@@ -45,3 +45,5 @@ heart_data.add_data(125, 82, 68, "10:30")
 # Plotting
 heart_data.plot_blood_pressure()
 heart_data.plot_heart_rate()
+
+#Need to add a message
